@@ -1,0 +1,13 @@
+{
+  "output_dir": "/home/",
+  "parameters_csv": "/home/",
+  "train_base_path": "/home/",
+  "test_base_path": "/home/",
+  "num_snps": ,
+  "target": ["", "", "", ""],
+  "nb_gen": ,
+  "num_replicates": ,
+  "rg_sc_train": [,], 
+  "rg_sc_test": [,]  
+}
+
